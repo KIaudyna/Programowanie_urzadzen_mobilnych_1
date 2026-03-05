@@ -2,8 +2,6 @@ fun wypiszLiczby(ilosc: Int){
 
     for (liczba in 1..ilosc){ 
 
-        println(liczba) 
-
         if(liczba%3==0 && liczba%5==0){ 
 
             println("TrzyPiec") 
@@ -47,5 +45,6 @@ wypiszLiczby(iloscLiczb)
      
 
      
+
 
  
